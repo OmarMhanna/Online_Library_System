@@ -1,0 +1,12 @@
+﻿  Online Library System.cpp
+D:\Omar\Courses\C++\Projects\3_Online Library System\Online Library System\Online Library System\Online Library System.cpp(27,79): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+D:\Omar\Courses\C++\Projects\3_Online Library System\Online Library System\Online Library System\Online Library System.cpp(28,79): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+  Online Library System.vcxproj -> D:\Omar\Courses\C++\Projects\3_Online Library System\Online Library System\x64\Debug\Online Library System.exe
